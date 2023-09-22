@@ -1,0 +1,14 @@
+.Header {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: brown;
+    width: 100%;
+    min-height: 30vh;
+    border: 3px solid rgb(202, 115, 16);
+}
+
+.Header h1,h2 {
+    color: aliceblue;
+}
