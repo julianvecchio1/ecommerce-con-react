@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { pedirDatos } from '../helpers/pedirDatos'
 import ItemList from './ItemList'
-
+import { useParams } from "react-router-dom";
 
 const ItemListContainer = () => {
 
