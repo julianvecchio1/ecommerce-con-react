@@ -7,7 +7,7 @@
 
 
 :root {
-  --clr-main: #c56cee;
+  --clr-main: red;
   --clr-main-light: #efdaf9;
 }
 
@@ -23,6 +23,7 @@
 
 .main-title {
   margin-top: 2rem;
+  color: black;
 }
 
 .navbar {
@@ -209,4 +210,15 @@
   outline: 0;
   border: 2px solid red;
   outline: 2px solid red;
+}
+
+.estilo-compra {
+  color: black;
+  background-color: rgb(233, 201, 201);
+}
+
+.numerito{
+  font-size: small;
+  color: white;
+  text-decoration: none;
 }

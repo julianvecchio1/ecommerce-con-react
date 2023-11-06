@@ -21,5 +21,6 @@ li {
 
 a {
     list-style: none;
-    color: rgb(18, 110, 110);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
